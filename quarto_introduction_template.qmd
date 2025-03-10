@@ -1,0 +1,33 @@
+---
+title: "NUMBATs Assemble! Meet the Team"
+format: beamer
+---
+
+## David Wu
+
+- Research Fellow working with Michael Lydeamore
+
+- I model infectious diseases, mathematically and computationally
+
+- Currently, analysing the dynamics of patient movement between hospitals 
+
+- I spend a lot of time on the Yu-Gi-Oh trading card game.
+
+\vspace{0.5em}
+
+![](david_w_img/state_of_the_union.png){fig-align="center"}
+
+
+
+<!-- We are looking for a single slide from each member. You will have 4 minutes to say hello, and present your slide.
+
+This is a flavour of what you are up to, your research interests, anything else you would like to mention (hobbies, pets etc.)
+
+-   Position in the department
+
+-   Research themes
+
+-   What are you working on?
+
+-   Hobbies/interests -->
+
